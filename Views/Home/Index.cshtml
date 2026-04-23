@@ -1,0 +1,120 @@
+﻿@model LoveCalculatorApp.UserDTO.HomePage
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Love Calculator - Home</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(to right, #ff9a9e, #fad0c4);
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        h1 {
+            margin-top: 30px;
+            color: #d81b60;
+            font-size: 2.5em;
+        }
+
+        .container {
+            background: #fff;
+            padding: 40px;
+            margin: 40px auto;
+            width: 420px;
+            border-radius: 15px;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+        }
+
+        label {
+            font-weight: bold;
+            margin-right: 10px;
+            color: #333;
+        }
+
+        input[type="text"] {
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            width: 60%;
+            background-color: #e3f2fd;
+        }
+
+        .error {
+            color: red;
+            font-size: 14px;
+            display: block;
+            margin-top: 5px;
+        }
+
+        .checkbox-row {
+            margin-top: 15px;
+        }
+
+        input[type="submit"] {
+            background-color: #e91e63;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            margin-top: 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: bold;
+            font-size: 16px;
+        }
+
+            input[type="submit"]:hover {
+                background-color: #c2185b;
+            }
+
+        .icon {
+            font-size: 20px;
+            margin-right: 5px;
+        }
+
+        .form-row {
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>💖 Love Calculator 💘</h1>
+    <hr />
+
+    <div class="container">
+        <form asp-controller="Home" asp-action="Calculate" method="post">
+
+            <div class="form-row">
+                <span class="icon">👤</span>
+                <label asp-for="Username">User Name:</label>
+                <input asp-for="Username" />
+                <span asp-validation-for="Username" class="error"></span>
+            </div>
+
+            <div class="form-row">
+                <span class="icon">😍</span>
+                <label asp-for="Crushname">Crush Name:</label>
+                <input asp-for="Crushname" />
+                <span asp-validation-for="Crushname" class="error"></span>
+            </div>
+
+            <div class="checkbox-row">
+                <input asp-for="TermsAndPrivacy" type="checkbox" />
+                <label asp-for="TermsAndPrivacy">📜 I agree this is just for fun</label>
+                <span asp-validation-for="TermsAndPrivacy" class="error"></span>
+            </div>
+
+            <input type="submit" value="💘 Calculate Love 💘" />
+        </form>
+    </div>
+
+    <!-- Scripts included directly (not in a section) -->
+    <script src="[cdnjs.cloudflare.com](https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js)"></script>
+    <script src="[cdnjs.cloudflare.com](https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js)"></script>
+    <script src="[cdnjs.cloudflare.com](https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js)"></script>
+
+</body>
+</html>

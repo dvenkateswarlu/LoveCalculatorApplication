@@ -1,0 +1,565 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\views\\email\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:views\\email\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\userdto\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:userdto\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\userdto\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:userdto\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\views\\email\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:views\\email\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\services\\imapperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:services\\imapperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\services\\mapperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:services\\mapperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\communicationdto\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:communicationdto\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\communicationdto\\communicatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:communicationdto\\communicatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\emaildto\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:emaildto\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\views\\home\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:views\\home\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\views\\register\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:views\\register\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\userdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:userdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\communicationdto\\phoneformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:communicationdto\\phoneformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\models\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:models\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\validators\\ageattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:validators\\ageattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\services\\lovecalculatorconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:services\\lovecalculatorconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\services\\lovecalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:services\\lovecalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\services\\ilovecalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:services\\ilovecalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\migrations\\20260421123117_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:migrations\\20260421123117_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Views\\Email\\Result.cshtml",
+              "RelativeDocumentMoniker": "Views\\Email\\Result.cshtml",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Views\\Email\\Result.cshtml",
+              "RelativeToolTip": "Views\\Email\\Result.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T11:54:38.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMapperService.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Services\\IMapperService.cs",
+              "RelativeDocumentMoniker": "Services\\IMapperService.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Services\\IMapperService.cs",
+              "RelativeToolTip": "Services\\IMapperService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:25:10.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmaiLDTO.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\EmailDTO\\EmaiLDTO.cs",
+              "RelativeDocumentMoniker": "EmailDTO\\EmaiLDTO.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\EmailDTO\\EmaiLDTO.cs",
+              "RelativeToolTip": "EmailDTO\\EmaiLDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:23:15.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Views\\Register\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Register\\Index.cshtml",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Views\\Register\\Index.cshtml",
+              "RelativeToolTip": "Views\\Register\\Index.cshtml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAALEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T12:01:20.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\UserDTO\\HomePage.cs",
+              "RelativeDocumentMoniker": "UserDTO\\HomePage.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\UserDTO\\HomePage.cs",
+              "RelativeToolTip": "UserDTO\\HomePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:23:10.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAGkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T11:57:35.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\UserDTO\\LoginPage.cs",
+              "RelativeDocumentMoniker": "UserDTO\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\UserDTO\\LoginPage.cs",
+              "RelativeToolTip": "UserDTO\\LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:03:48.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:26:09.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MapperService.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Services\\MapperService.cs",
+              "RelativeDocumentMoniker": "Services\\MapperService.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Services\\MapperService.cs",
+              "RelativeToolTip": "Services\\MapperService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:26:05.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Views\\Email\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Email\\Index.cshtml",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Views\\Email\\Index.cshtml",
+              "RelativeToolTip": "Views\\Email\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAFQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T11:51:23.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmailController.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "Controllers\\EmailController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:23:35.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\CommunicationDTO\\Phone.cs",
+              "RelativeDocumentMoniker": "CommunicationDTO\\Phone.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\CommunicationDTO\\Phone.cs",
+              "RelativeToolTip": "CommunicationDTO\\Phone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:03:27.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommunicateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\CommunicationDTO\\CommunicateDTO.cs",
+              "RelativeDocumentMoniker": "CommunicationDTO\\CommunicateDTO.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\CommunicationDTO\\CommunicateDTO.cs",
+              "RelativeToolTip": "CommunicationDTO\\CommunicateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:28:17.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:23:29.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Views\\Home\\Result.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Result.cshtml",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Views\\Home\\Result.cshtml",
+              "RelativeToolTip": "Views\\Home\\Result.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T11:56:20.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T12:20:54.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:46:16.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T11:54:55.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Views\\Register\\Result.cshtml",
+              "RelativeDocumentMoniker": "Views\\Register\\Result.cshtml",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Views\\Register\\Result.cshtml",
+              "RelativeToolTip": "Views\\Register\\Result.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T11:59:28.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\UserDTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "UserDTO\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\UserDTO\\RegisterDTO.cs",
+              "RelativeToolTip": "UserDTO\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:04:32.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PhoneFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\CommunicationDTO\\PhoneFormatter.cs",
+              "RelativeDocumentMoniker": "CommunicationDTO\\PhoneFormatter.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\CommunicationDTO\\PhoneFormatter.cs",
+              "RelativeToolTip": "CommunicationDTO\\PhoneFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:30:27.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20260421123117_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Migrations\\20260421123117_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260421123117_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Migrations\\20260421123117_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260421123117_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:31:17.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Models\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Models\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Models\\UserEntity.cs",
+              "RelativeToolTip": "Models\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:23:13.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:39:24.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T12:16:26.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:07:58.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:50:27.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AgeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Validators\\AgeAttribute.cs",
+              "RelativeDocumentMoniker": "Validators\\AgeAttribute.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Validators\\AgeAttribute.cs",
+              "RelativeToolTip": "Validators\\AgeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:44:37.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:00:31.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoveCalculatorConstants.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Services\\LoveCalculatorConstants.cs",
+              "RelativeDocumentMoniker": "Services\\LoveCalculatorConstants.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Services\\LoveCalculatorConstants.cs",
+              "RelativeToolTip": "Services\\LoveCalculatorConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:37:21.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoveCalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Services\\LoveCalculatorService.cs",
+              "RelativeDocumentMoniker": "Services\\LoveCalculatorService.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Services\\LoveCalculatorService.cs",
+              "RelativeToolTip": "Services\\LoveCalculatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:37:22.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ILoveCalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Services\\ILoveCalculatorService.cs",
+              "RelativeDocumentMoniker": "Services\\ILoveCalculatorService.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Services\\ILoveCalculatorService.cs",
+              "RelativeToolTip": "Services\\ILoveCalculatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:36:05.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Services\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Services\\IEmailService.cs",
+              "RelativeToolTip": "Services\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T10:59:47.434Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

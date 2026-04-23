@@ -1,0 +1,138 @@
+﻿@model LoveCalculatorApp.UserDTO.LoginPage
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Love Calculator - Login</title>
+
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(to right, #ffdde1, #ee9ca7);
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            text-align: center;
+            margin-top: 30px;
+            color: #333;
+        }
+
+        .login-box {
+            background-color: #ffffff;
+            border-radius: 12px;
+            padding: 30px;
+            width: 400px;
+            margin: 40px auto;
+            box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+        }
+
+        /* FLEX ALIGNMENT */
+        .field-group {
+            display: flex;
+            align-items: center;
+            margin-bottom: 12px;
+        }
+
+            .field-group label {
+                width: 120px;
+                font-weight: bold;
+                color: #444;
+            }
+
+            .field-group input {
+                flex: 1;
+                padding: 8px;
+                border-radius: 6px;
+                border: 1px solid #ccc;
+            }
+
+        .error {
+            color: red;
+            font-size: 13px;
+            margin-left: 120px;
+            margin-bottom: 10px;
+            display: block;
+        }
+
+        .global-error {
+            color: red;
+            text-align: center;
+            font-weight: bold;
+            margin-top: 15px;
+        }
+
+        input[type="submit"] {
+            display: block;
+            margin: 20px auto 0;
+            background-color: #e91e63;
+            color: white;
+            border: none;
+            padding: 10px 25px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+            input[type="submit"]:hover {
+                background-color: #c2185b;
+            }
+
+        a {
+            display: block;
+            text-align: center;
+            margin-top: 10px;
+            font-weight: bold;
+            text-decoration: none;
+            color: #007BFF;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+
+<body>
+
+    <h1>💖 Love Calculator</h1>
+
+    <a asp-controller="Register" asp-action="Index">New here? Register</a>
+    <hr />
+
+    <div class="login-box">
+
+        <form asp-action="Login" method="post" autocomplete="off">
+
+            <div asp-validation-summary="All" class="error"></div>
+
+            <div class="field-group">
+                <label>Email:</label>
+                <input asp-for="Email" autocomplete="off" />
+            </div>
+            <span asp-validation-for="Email" class="error"></span>
+
+            <div class="field-group">
+                <label>Password:</label>
+                <input asp-for="Password" type="password" autocomplete="new-password" />
+            </div>
+            <span asp-validation-for="Password" class="error"></span>
+
+            <input type="submit" value="Login" />
+
+        </form>
+
+        @if (ViewBag.Error != null)
+        {
+            <p class="global-error">@ViewBag.Error</p>
+        }
+
+    </div>
+
+    @section Scripts {
+        <partial name="_ValidationScriptsPartial" />
+    }
+
+</body>
+</html>

@@ -1,0 +1,178 @@
+﻿@model LoveCalculatorApp.UserDTO.RegisterDTO
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Love Calculator - Register</title>
+
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(to right, #ffdde1, #ee9ca7);
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            text-align: center;
+            margin-top: 20px;
+            color: #c2185b;
+            font-size: 2.5em;
+        }
+
+        .form-container {
+            background: #fff;
+            padding: 30px;
+            width: 550px;
+            margin: 30px auto;
+            border-radius: 15px;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+        }
+
+        /* FLEX ALIGNMENT */
+        .field-group {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+            .field-group label {
+                width: 150px;
+                font-weight: bold;
+                color: #444;
+            }
+
+            .field-group input,
+            .field-group select {
+                flex: 1;
+                padding: 8px;
+                border: 1px solid #ccc;
+                border-radius: 6px;
+            }
+
+        .radio-group {
+            display: flex;
+            gap: 20px;
+        }
+
+        .error {
+            color: red;
+            font-size: 13px;
+            margin-left: 150px;
+            margin-bottom: 10px;
+            display: block;
+        }
+
+        input[type="submit"] {
+            display: block;
+            margin: 25px auto 0;
+            background-color: #e91e63;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+            input[type="submit"]:hover {
+                background-color: #c2185b;
+            }
+
+        h3 {
+            margin-top: 20px;
+            color: #c2185b;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>💖 Love Calculator - Register 💌</h1>
+    <hr />
+
+    <div class="form-container">
+        <form asp-action="Register" method="post" autocomplete="off">
+
+            <!-- 🔥 STRONG AUTOFILL BLOCK -->
+            <input type="text" name="fakeuser" style="display:none">
+            <input type="password" name="fakepass" style="display:none">
+
+            <!-- GLOBAL ERRORS -->
+            <div asp-validation-summary="All" class="error"></div>
+
+            <div class="field-group">
+                <label>Name :</label>
+                <input asp-for="Name" autocomplete="off" />
+            </div>
+
+            <div class="field-group">
+                <label>User Name :</label>
+                <input asp-for="Username" autocomplete="off" />
+            </div>
+            <span asp-validation-for="Username" class="error"></span>
+
+            <div class="field-group">
+                <label>Password :</label>
+                <input asp-for="Password" type="password" autocomplete="new-password" />
+            </div>
+            <span asp-validation-for="Password" class="error"></span>
+
+            <div class="field-group">
+                <label>Country :</label>
+                <select asp-for="Country">
+                    <option>India</option>
+                    <option>USA</option>
+                    <option>United Kingdom</option>
+                    <option>France</option>
+                </select>
+            </div>
+
+            <div class="field-group">
+                <label>Gender :</label>
+                <div class="radio-group">
+                    <label>
+                        <input type="radio" asp-for="Gender" value="male" /> Male
+                    </label>
+                    <label>
+                        <input type="radio" asp-for="Gender" value="female" /> Female
+                    </label>
+                </div>
+            </div>
+            <span asp-validation-for="Gender" class="error"></span>
+
+            <div class="field-group">
+                <label>Age :</label>
+                <input asp-for="Age" autocomplete="off" />
+            </div>
+            <span asp-validation-for="Age" class="error"></span>
+
+            <h3>📩 Communication</h3>
+
+            <div class="field-group">
+                <label>Email :</label>
+                <input asp-for="Communicationdto.Email" autocomplete="off" />
+            </div>
+            <span asp-validation-for="Communicationdto.Email" class="error"></span>
+
+            <div class="field-group">
+                <label>Phone Code :</label>
+                <input asp-for="Communicationdto.Phone.CountryCode" autocomplete="off" />
+            </div>
+
+            <div class="field-group">
+                <label>Phone Number :</label>
+                <input asp-for="Communicationdto.Phone.UserNumber" autocomplete="off" />
+            </div>
+
+            <input type="submit" value="💘 Register" />
+
+        </form>
+    </div>
+
+    @section Scripts {
+        <partial name="_ValidationScriptsPartial" />
+    }
+
+</body>
+</html>
