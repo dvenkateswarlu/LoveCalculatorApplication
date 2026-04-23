@@ -87,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:communicationdto\\phoneformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Migrations\\20260421123117_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260421123117_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -133,6 +129,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|c:\\users\\durga\\source\\repos\\lovecalculatorapp\\migrations\\20260421123117_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97692B5D-3793-441A-A0BF-C5FEE4E88C60}|LoveCalculatorApp.csproj|solutionrelative:migrations\\20260421123117_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -142,8 +142,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 11,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -154,8 +170,7 @@
               "RelativeToolTip": "Views\\Email\\Result.cshtml",
               "ViewState": "AgIAACgAAAAAAAAAAAAAwDoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-21T11:54:38.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:54:38.553Z"
             },
             {
               "$type": "Document",
@@ -167,8 +182,7 @@
               "RelativeToolTip": "Services\\IMapperService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:25:10.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:25:10.966Z"
             },
             {
               "$type": "Document",
@@ -180,8 +194,7 @@
               "RelativeToolTip": "EmailDTO\\EmaiLDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:23:15.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:23:15.608Z"
             },
             {
               "$type": "Document",
@@ -193,8 +206,7 @@
               "RelativeToolTip": "Views\\Register\\Index.cshtml",
               "ViewState": "AgIAAJAAAAAAAAAAAAAAALEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-21T12:01:20.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T12:01:20.712Z"
             },
             {
               "$type": "Document",
@@ -206,8 +218,7 @@
               "RelativeToolTip": "UserDTO\\HomePage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:23:10.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:23:10.187Z"
             },
             {
               "$type": "Document",
@@ -219,8 +230,7 @@
               "RelativeToolTip": "Views\\Login\\Index.cshtml",
               "ViewState": "AgIAAGIAAAAAAAAAAAAAAGkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-21T11:57:35.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:57:35.539Z"
             },
             {
               "$type": "Document",
@@ -232,8 +242,7 @@
               "RelativeToolTip": "UserDTO\\LoginPage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T14:03:48.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T14:03:48.15Z"
             },
             {
               "$type": "Document",
@@ -243,7 +252,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T11:26:09.238Z",
               "EditorCaption": ""
@@ -258,8 +267,7 @@
               "RelativeToolTip": "Services\\MapperService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:26:05.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:26:05.141Z"
             },
             {
               "$type": "Document",
@@ -271,8 +279,7 @@
               "RelativeToolTip": "Views\\Email\\Index.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAFQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-21T11:51:23.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:51:23.636Z"
             },
             {
               "$type": "Document",
@@ -284,8 +291,7 @@
               "RelativeToolTip": "Controllers\\EmailController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAwCwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:23:35.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:23:35.093Z"
             },
             {
               "$type": "Document",
@@ -297,8 +303,7 @@
               "RelativeToolTip": "CommunicationDTO\\Phone.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T13:03:27.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T13:03:27.94Z"
             },
             {
               "$type": "Document",
@@ -310,8 +315,7 @@
               "RelativeToolTip": "CommunicationDTO\\CommunicateDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:28:17.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:28:17.186Z"
             },
             {
               "$type": "Document",
@@ -323,8 +327,7 @@
               "RelativeToolTip": "Controllers\\RegisterController.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwCIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:23:29.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:23:29.772Z"
             },
             {
               "$type": "Document",
@@ -336,8 +339,7 @@
               "RelativeToolTip": "Views\\Home\\Result.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-21T11:56:20.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:56:20.141Z"
             },
             {
               "$type": "Document",
@@ -349,8 +351,7 @@
               "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-21T12:20:54.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T12:20:54.318Z"
             },
             {
               "$type": "Document",
@@ -362,8 +363,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:46:16.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:46:16.207Z"
             },
             {
               "$type": "Document",
@@ -375,8 +375,7 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAGMAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-21T11:54:55.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:54:55.099Z"
             },
             {
               "$type": "Document",
@@ -388,8 +387,7 @@
               "RelativeToolTip": "Views\\Register\\Result.cshtml",
               "ViewState": "AgIAAFQAAAAAAAAAAAAAAFEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-21T11:59:28.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:59:28.547Z"
             },
             {
               "$type": "Document",
@@ -401,8 +399,7 @@
               "RelativeToolTip": "UserDTO\\RegisterDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T12:04:32.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T12:04:32.623Z"
             },
             {
               "$type": "Document",
@@ -414,12 +411,11 @@
               "RelativeToolTip": "CommunicationDTO\\PhoneFormatter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:30:27.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:30:27.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 32,
               "Title": "20260421123117_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Migrations\\20260421123117_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20260421123117_InitialCreate.cs",
@@ -427,12 +423,11 @@
               "RelativeToolTip": "Migrations\\20260421123117_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T12:31:17.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T12:31:17.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "UserEntity.cs",
               "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Models\\UserEntity.cs",
               "RelativeDocumentMoniker": "Models\\UserEntity.cs",
@@ -440,12 +435,11 @@
               "RelativeToolTip": "Models\\UserEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:23:13.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:23:13.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Services\\UserService.cs",
@@ -453,12 +447,11 @@
               "RelativeToolTip": "Services\\UserService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:39:24.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:39:24.016Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -466,12 +459,11 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-21T12:16:26.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T12:16:26.94Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -479,12 +471,11 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:07:58.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:07:58.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
@@ -492,12 +483,11 @@
               "RelativeToolTip": "Controllers\\LoginController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:50:27.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:50:27.854Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "AgeAttribute.cs",
               "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Validators\\AgeAttribute.cs",
               "RelativeDocumentMoniker": "Validators\\AgeAttribute.cs",
@@ -505,12 +495,11 @@
               "RelativeToolTip": "Validators\\AgeAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:44:37.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:44:37.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "Services\\EmailService.cs",
@@ -518,12 +507,11 @@
               "RelativeToolTip": "Services\\EmailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:00:31.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:00:31.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "LoveCalculatorConstants.cs",
               "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Services\\LoveCalculatorConstants.cs",
               "RelativeDocumentMoniker": "Services\\LoveCalculatorConstants.cs",
@@ -531,12 +519,11 @@
               "RelativeToolTip": "Services\\LoveCalculatorConstants.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:37:21.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:37:21.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "LoveCalculatorService.cs",
               "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Services\\LoveCalculatorService.cs",
               "RelativeDocumentMoniker": "Services\\LoveCalculatorService.cs",
@@ -544,12 +531,11 @@
               "RelativeToolTip": "Services\\LoveCalculatorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:37:22.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:37:22.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "ILoveCalculatorService.cs",
               "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Services\\ILoveCalculatorService.cs",
               "RelativeDocumentMoniker": "Services\\ILoveCalculatorService.cs",
@@ -557,12 +543,11 @@
               "RelativeToolTip": "Services\\ILoveCalculatorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T11:36:05.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T11:36:05.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "IEmailService.cs",
               "DocumentMoniker": "C:\\Users\\durga\\source\\repos\\LoveCalculatorApp\\Services\\IEmailService.cs",
               "RelativeDocumentMoniker": "Services\\IEmailService.cs",
@@ -570,8 +555,7 @@
               "RelativeToolTip": "Services\\IEmailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T10:59:47.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T10:59:47.434Z"
             }
           ]
         }
